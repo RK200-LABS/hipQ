@@ -1,0 +1,6 @@
+# 빌드 결과물 제외
+/build
+.gradle
+/out
+*.class
+*.log
