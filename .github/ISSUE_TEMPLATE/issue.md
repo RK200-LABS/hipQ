@@ -1,5 +1,5 @@
 ---
-name: 이슈 템플릿
+name: issue
 about: 이슈 발생 시 사용
 title: 이슈
 labels: ''

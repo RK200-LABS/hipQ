@@ -1,5 +1,5 @@
 ---
-name: 기능 추가 템플릿
+name: feature
 about: 기능 추가 시 사용하는 템플릿
 title: 기능
 labels: enhancement
